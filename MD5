@@ -1,4 +1,4 @@
-f1b2db178e25d634a2bd34d757067db6 *DESCRIPTION
+e604b2276ad001d4a7e7842044e10804 *DESCRIPTION
 b4953f9c140079b140b1f21ef0458f18 *LICENSE
 712c5ea8105ca0031587bf57106e780b *NAMESPACE
 2b3505bf3667264b6f0781147827af03 *R/Anchor_projection.R
@@ -7,17 +7,17 @@ a6035778ea549ee52f3d9392e94e40c3 *R/FisherExactTest.R
 a573511240957666a324307f3417aefc *R/MaxVoting.R
 d6e0cf2f41a3aeeb8e70784b83299ed0 *R/TopPairs_CellID.R
 6d5ef0fdc663aafb1f39506551e8a16f *R/data.R
-b6d83cab980148434a1ac7aa98f1b8cc *R/main.R
+8e450278c883114b75d5d6b424921930 *R/main.R
 470b1cdab50fabf1df8331888a1a9231 *R/ttest.R
 b11e466e3d155f231d1d269c1d053673 *README.md
 66bd628aa15b341f9e8365f7204d84d4 *build/vignette.rds
 8272dd6af08e6d767871b0ad2ece0b9b *data/HumanDC.rda
 9925cf71ad8c95113580e6c790100e80 *inst/doc/my-vignette.R
 c13745bba83a4b85e4c5dabe1ae4624b *inst/doc/my-vignette.Rmd
-90de0d8b57bde39daab21f4304bac40e *inst/doc/my-vignette.html
+5d265f942ec2917afbce736a44608856 *inst/doc/my-vignette.html
 1719e048a62c7b7be463e8634d1fdcef *man/HumanDC.Rd
-93e6be0ba67dfadecdb3a3b64bb2a46d *man/SCIBER.Rd
+64fadec33cab597ee2f4a9ec21a56143 *man/SCIBER.Rd
 32cb276b6dcaf4f2afe9e06868a42cfa *man/figures/README-pressure-1.png
 5e361fb35d6054f3b1c14cca31b8b7fc *tests/testthat.R
-c7c9064ba945dc692c54f70d6d3548ba *tests/testthat/test-SCIBER.R
+e73ac79a15cbaec7589eb82bb69d146c *tests/testthat/test-SCIBER.R
 c13745bba83a4b85e4c5dabe1ae4624b *vignettes/my-vignette.Rmd
